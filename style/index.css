@@ -1,0 +1,98 @@
+#show_videos{
+    display: grid;
+    grid-template-columns: repeat(4,20%);
+    grid-template-rows: auto;
+    gap: 6%;
+    margin-top: 20px;
+    /* border: 1px solid; */
+}
+#navbar{
+    height: 70px;
+    width: 100%;
+    border: 1px solid;
+    display: flex;
+}
+#first{
+    height: 100%;
+    width: 20%;
+    /* border: 1px solid; */
+    display: flex;
+}
+#navbar>#query{
+    height: 40px;
+    width: 35%;
+    margin-top: 10px;
+    margin-left: 95px;
+    
+
+}
+button{
+    height: 46px;
+    width: 5%;
+    margin-top: 10px;
+
+}
+#second{
+    height: 100%;
+    width: 5%;
+    /* border: 1px solid; */
+}
+#third{
+    height: 100%;
+    width: 17%;
+    /* border: 1px solid; */
+    margin-left: 190px;
+    display: flex;
+}
+#second>i{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+#main{
+    height: 100%;
+    width: 20%;
+    /* border: 1px solid; */
+}
+#main1{
+    height: 35%;
+    width: 35%;
+    /* border: 1px solid; */
+    margin-top: 7%;
+}
+#main>i{
+    font-size: 23px;
+    margin-top:37%;
+    margin-left: 10%;
+}
+#main1>img{
+    height: 100%;
+    width: 100%;
+}
+#third>div{
+    height: 100%;
+    width: 25%;
+    /* border: 1px solid; */
+}
+#third>div>#ye{
+    height: 50%;
+    width: 50%;
+    border: 1px solid;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#third>div>i{
+    font-size: 25px;
+    margin-top: 19px;
+    margin-left: 10px;
+}
+#third>div>#ima{
+    height: 60%;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: black;
+   
+}
+
