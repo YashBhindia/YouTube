@@ -35,7 +35,7 @@ YouTube is an American online video sharing and social media platform.People can
 
 **Played Video**
 
-![video played](https://user-images.githubusercontent.com/101567722/185149679-047f65b8-67cf-4fdf-862b-9d4a230ccfc7.png)
+![video played](https://github.com/YashBhindia/YouTube/blob/024b82ea0574de949b9a48680ebf6fab9eb8a986/Screenshot%20(1323).png)
 
 
 
