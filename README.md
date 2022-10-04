@@ -10,7 +10,7 @@ YouTube is an American online video sharing and social media platform.People can
  
 
 # Solo Project 👨‍💻
-  - **[Yash Bhindia]([https://github.com/YashBhindia])**
+  - **[Yash Bhindia](([https://github.com/YashBhindia]))**
 
 ### Pages & Features 👇
 
