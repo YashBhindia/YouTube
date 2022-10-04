@@ -6,7 +6,7 @@ I am student of Masai School from Web16 batch and I am presenting our project- c
 YouTube is an American online video sharing and social media platform.People can view different topic related videos like educational,entertainment,etc.
 
 
- 🚀 The link for the same is here : joyful-cranachan-e8b044.netlify.app
+ 🚀 The link for the same is here : **[Live Link](https://joyful-cranachan-e8b044.netlify.app/)
  
 
 # Solo Project 👨‍💻
@@ -38,10 +38,4 @@ YouTube is an American online video sharing and social media platform.People can
 ![video played](https://user-images.githubusercontent.com/101567722/185149679-047f65b8-67cf-4fdf-862b-9d4a230ccfc7.png)
 
 
-## Learning :-
 
-- My code writing style became cleaner as I have used ES6 to write code and used import export so that code become well structured.
-
-- I learn about many CSS properties that I didn't know before.
-
-- My skills in JavaScript and DOM manipulation became better.
