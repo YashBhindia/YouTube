@@ -10,7 +10,7 @@ YouTube is an American online video sharing and social media platform.People can
  
 
 # Solo Project 👨‍💻
-  - **[Rupesh Thakur](https://github.com/Rupesh8844)**
+  - **[Yash Bhindia]([https://github.com/Rupesh8844](https://github.com/YashBhindia))**
 
 ### Pages & Features 👇
 
@@ -31,9 +31,6 @@ YouTube is an American online video sharing and social media platform.People can
 ![Homepage](https://user-images.githubusercontent.com/101567722/185149083-28f1af89-6416-4e5c-87d5-5b9c05b61939.png)
 
 
-**Searched Videos**
-
-![Searched page](https://user-images.githubusercontent.com/101567722/185149594-2eec71a5-17a0-4020-8eae-e492404cc04c.png)
 
 
 **Played Video**
